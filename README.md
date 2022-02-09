@@ -3,7 +3,7 @@
 
 🇧🇷: I’m from Brazil.
 
-:computer: I'm Learn Web Developer!  :books: I’m currently learning everything.
+:computer: I'm Learn Web Developer!  📖: I’m currently learning everything.
 
 <div>
 <a href="https://github.com/GeziaelThiagoPaes ">
