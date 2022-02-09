@@ -1,10 +1,10 @@
 # Hello Everyone
-👊: I'm Geziael Thiago! :house_with_garden: I’m from Brazil.
+👊: I'm Geziael Thiago!              :house_with_garden: I’m from Brazil.
 
-:computer: I'm Learn Web Developer! :books: I’m currently learning everything.
+:computer: I'm Learn Web Developer!  :books: I’m currently learning everything.
 
 <div>
 <a href="https://github.com/GeziaelThiagoPaes ">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeziaelThiagoPaes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=GeziaelThiagoPaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeziaelThiagoPaes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=GeziaelThiagoPaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
